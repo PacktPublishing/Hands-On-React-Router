@@ -1,32 +1,38 @@
-# Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]
-This is the code repository for [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On React Router	[Video]
+This is the code repository for [Hands-On React Router [Video]](https://www.packtpub.com/programming/hands-on-react-router-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Medium-sized business demands the reliability and high performance of large organizations, and the cost effectiveness of small businesses, to help them deal with competition efficiently. Cisco provides the necessary hardware and software to enable small- to medium-sized enterprises to build and maintain efficient voice and digital networks and empower the smooth running of your business. You will start by exploring the hardware options provided by Cisco to build your SME Voice Network. You will learn to set up Cisco command-line interface connections, and work with the hardware feature sets that fulfill your organization's various needs. From there, you will explore the different software you'll need for your network. You will learn to work with the Cisco Unified Communication Manager Express, Cisco Unity, and Cisco Configuration Professional Express, as well as the different file sets you will encounter on a daily basis. After that, you will learn to design your SME topology, and configure various devices for your network. You will set up your own dial plans, and also set up accounts with the help of the Cisco GUI Admin. Finally, you will learn to use Cisco Unity Connection to manage voice calls and messages over your organization's network. By the end of this tutorial, you will have mastered building, securing, and maintaining your own voice network for small- to medium-sized enterprises.
+	
+React Router is a frontend package that listens to changes in your URL and keeps your application in-sync by rendering the corresponding view components. It enables you to build a single-page web application that incorporates navigation without refreshing the page when the user navigates to it.
+In this course, you will be introduced to React Router and create your first route using this React component. You will configure your routes by passing parameters and creating nested routes. By working with various React Router components, you will master their various configuration options and learn how to use the Redirect and Switch components.
+By the end of this course, you will be ready to work with React Router and make routing configurations in a server-side, rendered React application.
 
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Create and maintain your GUI connections 
-<LI>Work with virtual solutions for your large enterprise voice network with the help of VMWare 
-<LI>Manage your network’s DHCP and DNS dependencies 
-<LI>Set up different dial plans and manage your network’s users 
-<LI>Handle network connectivity with the help Cisco’s Unified Mobility Features 
-<LI>Ensure quality of service and security over your network 
-<LI>Set up and configure Cisco Unity Connection to manage voicemail over your network </LI></UL></DIV>
+<LI>Explore React Router components and utilize them effectively in your React applications
+<LI>Bootstrap your React Router application using create-react-app and use npm to install commands so that you can start coding your application logic right away
+<LI>Best practices and techniques that will make your React Router app secure and bug-free
+<LI>Route server-rendered and client-rendered web apps so that you can adjust to both paradigms and decide what is best for your application
+<LI>Route in both web and native applications so you can appreciate their differences and similarities and develop both application types
+<LI>Integrate React Router into your app so you are prepared to develop scenarios and systems using this architecture</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
-Targeting network engineers with a basic understanding of network topologies and how they work, this video course is also for anyone who wants to learn how to set up an efficient, scalable network for small- to medium-sized enterprises with the help of Cisco's networking solutions.	
+This course is for JavaScript developers who have a basic knowledge of React and who want to harness the power and flexibility of React Router in their apps.	
 ### Technical Requirements
 This course has the following software requirements:<br/>
-CISCO
+Software Requirements
+●        Operating system: Windows/MAC
+
+●        Browser:
+
+●        Atom IDE, Latest Version
+
+●        Node.js LTS 8.9.1 Installed
+
 
 ## Related Products
-* [Cisco Voice Solutions for Medium to Large Enterprise MLE - CUCM [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-medium-large-enterprise-mle-cucm-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476263)
+* [React - The Complete Guide (incl. Hooks, React Router and Redux)[Video]](https://www.packtpub.com/application-development/react-complete-guide-incl-hooks-react-router-and-redux-video)
 
-* [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
-
-* [Cisco Voice Solutions for Small and Medium-Sized Enterprises SME - CUCME [Video]](https://www.packtpub.com/application-development/cisco-voice-solutions-small-and-medium-sized-enterprises-sme-cucme-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476188)
 
